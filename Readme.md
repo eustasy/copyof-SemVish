@@ -1,4 +1,8 @@
 SemVish [![Build Status](https://travis-ci.org/megawac/SemVish.svg?branch=master)](https://travis-ci.org/megawac/SemVish) [![Code Climate](https://codeclimate.com/github/megawac/SemVish/badges/gpa.svg)](https://codeclimate.com/github/megawac/SemVish) [![License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
+
+===========
+This is a fork of the original by [megawac](https://github.com/megawac/SemVish). As of now, this fork contains no changes to code. Bugs, requests and contributions should be directed to [megawac/SemVish](https://github.com/megawac/SemVish).
+
 ===========
 
 A versioning interpretter that can process multiple versioning schemes such as
